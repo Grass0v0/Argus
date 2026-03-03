@@ -16,12 +16,10 @@
 ## Settings Page
 <img width="900" height="506" alt="image" src="https://github.com/user-attachments/assets/1dd95390-5b19-45ab-9612-54e67c7b304e" />
 
-## Actions 
-Discord Webhook Success Logs 
+## Actions (Discord Webhook Success Logs , Buy token action through telegram bot command , Mobile Pushover Notification Ping)
+
 <img width="411" height="671" alt="image" src="https://github.com/user-attachments/assets/2a953045-1b21-4822-9779-3dd54da75876" />
-Buy token action through telegram bot command 
 <img width="1446" height="190" alt="image" src="https://github.com/user-attachments/assets/379d43fd-9f2f-4970-af7b-e6c712757283" />
-Mobile Pushover Notification Ping
 <img width="360" height="756" alt="image" src="https://github.com/user-attachments/assets/63ece2a8-94ec-403c-87db-d7acb46d1938" />
 
 
